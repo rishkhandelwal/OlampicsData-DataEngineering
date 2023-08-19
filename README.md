@@ -1,3 +1,7 @@
-<h1 align="center">Olympics Data Analytics</h1>
-Olympics Data Analytics
-End-to-End Azure Data Engineering Project
+# Olympics Data Analytics
+<p align="center">Olympics Data Analytics End-to-End Azure Data Engineering Project</p>
+
+**Resources and Technologies Used**
+- Azure - Azure Factory, Azure Databricks, Azure Data Lake 2, Azure Synapse Analytics
+
+
