@@ -17,11 +17,11 @@ Olympics Data Analytics End-to-End Azure Data Engineering Project
 - Why Azure Data Factory
   Azure Data Factory is a cloud-based data integration service provided by Microsoft Azure. It allows you to create, schedule, and manage data pipelines
   for ETL (Extract, Transform, Load) processes, enabling you to efficiently move and transform data from various sources to different destinations.
-  _Data movement_: Transfer data between different data stores.
-  _Transformation_: Perform data transformations using services like Azure HDInsight, Azure Data Lake Analytics, etc.
-  _Orchestration_: Chain activities into end-to-end workflows.
-  _Integration_: Seamlessly integrate with other Azure services.
-  _Monitoring and management_: Monitor pipeline execution and troubleshoot issues.
+  -_Data movement_: Transfer data between different data stores.
+  -_Transformation_: Perform data transformations using services like Azure HDInsight, Azure Data Lake Analytics, etc.
+  -_Orchestration_: Chain activities into end-to-end workflows.
+  -_Integration_: Seamlessly integrates with other Azure services.
+  -_Monitoring and management_: Monitor pipeline execution and troubleshoot issues.
 
 - 
 
