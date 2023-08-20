@@ -7,12 +7,12 @@ Olympics Data Analytics End-to-End Azure Data Engineering Project
 - Kaggle dataset - (https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
 
 **Architecture of project**
-- Took data from Kaggle in xlxs format and converted to csv.
-- Added data(raw-data) to github.
-- Created a new Data Factory in Azure and uploaded data using Git Hub.
-- From the data factory, connected Data Lake Gen 2 and added all files.
-- Used Databricks to transformation of data.
-- Added transformed data to Data Lake again.
+1. Took data from Kaggle in xlxs format and converted to csv.
+2. Added data(raw-data) to github.
+3. Created a new Data Factory in Azure and uploaded data using Git Hub.
+4. From the data factory, connected Data Lake Gen 2 and added all files.
+5. Used Databricks to transformation of data.
+6. Added transformed data to Data Lake again.
 
 **Some basic knowledge about _Azure tools_**
 - Why Azure Data Factory?
