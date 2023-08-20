@@ -1,3 +1,4 @@
+![Project Architecture](https://github.com/rishkhandelwal/OlampicsData-DataEngineering/blob/main/archiOlym.png)
 # Olympics Data Analytics
 Olympics Data Analytics End-to-End Azure Data Engineering Project
 
