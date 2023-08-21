@@ -6,7 +6,7 @@ Olympics Data Analytics End-to-End Azure Data Engineering Project
 - Azure - Azure Factory, Azure Databricks, Azure Data Lake 2, Azure Synapse Analytics, SQL
 - Kaggle dataset - (https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
 
-**Architecture of project**
+## Architecture of the project
 1. Took data from Kaggle in xlxs format and converted it to csv.
 2. Added data(raw-data) to github.
 3. Created a new Data Factory in Azure and uploaded data using Git Hub.
@@ -15,7 +15,7 @@ Olympics Data Analytics End-to-End Azure Data Engineering Project
 6. Added transformed data to Data Lake again.
 7. Used Azure Synapse Analytics to analyze data using graphs.
 
-**Some basic knowledge about _Azure tools_**
+## Some basic knowledge about _Azure tools_
 - Why Azure Data Factory?
   Azure Data Factory is a cloud-based data integration service provided by Microsoft Azure. It allows you to create, schedule, and manage data pipelines
   for ETL (Extract, Transform, Load) processes, enabling you to efficiently move and transform data from various sources to different destinations.
@@ -43,11 +43,11 @@ Olympics Data Analytics End-to-End Azure Data Engineering Project
     - _Advanced analytics_: Integrate with tools like Azure Databricks for data processing and analytics.
     - _Security and access control_: Implement fine-grained access control to protect data.
  
-**Description of files**
+## Description of files
 - data - this contains raw data cvs file
 - transformed-data - this contains data that can be used used to build a dashboard.
 - ipynb file - contains Pyspark transformation code
 
-**Work for Future**
-Can create dashboard using transformed data using tableau, PowerBI, etc.
+## Work for Future
+Can create a dashboard using transformed data using Tableau, PowerBI, etc.
 
