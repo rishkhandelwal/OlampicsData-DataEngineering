@@ -3,7 +3,7 @@
 Olympics Data Analytics End-to-End Azure Data Engineering Project
 
 **Resources and Technologies Used**
-- Azure - Azure Factory, Azure Databricks, Azure Data Lake 2, Azure Synapse Analytics
+- Azure - Azure Factory, Azure Databricks, Azure Data Lake 2, Azure Synapse Analytics, SQL
 - Kaggle dataset - (https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
 
 **Architecture of project**
@@ -47,4 +47,7 @@ Olympics Data Analytics End-to-End Azure Data Engineering Project
 - data - this contains raw data cvs file
 - transformed-data - this contains data that can be used used to build a dashboard.
 - ipynb file - contains Pyspark transformation code
+
+**Work for Future**
+Can create dashboard using transformed data using tableau, PowerBI, etc.
 
