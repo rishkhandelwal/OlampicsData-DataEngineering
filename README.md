@@ -2,7 +2,7 @@
 # Olympics Data Analytics
 Olympics Data Analytics End-to-End Azure Data Engineering Project
 
-### Resources and Technologies Used
+## Resources and Technologies Used
 - Azure - Azure Factory, Azure Databricks, Azure Data Lake 2, Azure Synapse Analytics, SQL
 - Kaggle dataset - (https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
 
